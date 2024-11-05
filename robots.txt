@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iyiziova.github.io/Evi/sitemap_index.txt
+Sitemap: https://iyiziova.github.io/hTS/sitemap_index.txt
+Sitemap: https://iyiziova.github.io/pbE/sitemap_index.txt
+Sitemap: https://iyiziova.github.io/vyj/sitemap_index.txt
